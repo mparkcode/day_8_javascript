@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.nav{
+    margin-top: 40px;
+}
+
+.buttons{
+    padding: 0;
+}
+
+.game-button{
+    height: 100px;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.buttons button i{
+    font-size: 60px;
+}
+
+.rotate{
+    transform: rotate(45deg);
+}
